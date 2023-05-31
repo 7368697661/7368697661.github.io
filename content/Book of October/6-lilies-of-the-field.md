@@ -1,5 +1,5 @@
 ---
-title: Lilies of the Field
+title: "Lilies of the Field"
 tags:
 - boo
 ---

@@ -1,5 +1,5 @@
 ---
-title: The Observer
+title: "The Observer"
 tags:
 - boo
 ---

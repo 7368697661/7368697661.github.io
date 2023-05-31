@@ -1,5 +1,5 @@
 ---
-title: Ripples on the Pond
+title: "Ripples on the Pond"
 tags:
 - boo
 ---

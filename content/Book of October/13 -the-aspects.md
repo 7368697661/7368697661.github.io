@@ -1,5 +1,5 @@
 ---
-title: The Aspects
+title: "The Aspects"
 tags:
 - boo
 ---

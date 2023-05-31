@@ -1,5 +1,5 @@
 ---
-title: Compassion
+title: "Compassion"
 tags:
 - boo
 ---

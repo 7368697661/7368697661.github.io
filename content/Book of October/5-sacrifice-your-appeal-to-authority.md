@@ -1,5 +1,5 @@
 ---
-title: Sacrifice your Appeal to Authority
+title: "Sacrifice your Appeal to Authority"
 tags:
 - boo
 ---

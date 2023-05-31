@@ -1,5 +1,5 @@
 ---
-title: The Book of October
+title: "The Book of October"
 tags:
 - boo
 ---

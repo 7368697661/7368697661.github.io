@@ -1,5 +1,5 @@
 ---
-title: Shelving Ego
+title: "Shelving Ego"
 tags:
 - boo
 ---

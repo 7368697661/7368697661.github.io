@@ -1,5 +1,5 @@
 ---
-title: Self Hate
+title: "Self Hate"
 tags:
 - boo
 ---

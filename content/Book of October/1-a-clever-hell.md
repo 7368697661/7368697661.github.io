@@ -1,5 +1,5 @@
 ---
-title: A Clever Hell
+title: "A Clever Hell"
 tags:
 - boo
 ---

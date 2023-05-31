@@ -1,5 +1,5 @@
 ---
-title: November Dawn
+title: "November Dawn"
 tags:
 - boo
 ---

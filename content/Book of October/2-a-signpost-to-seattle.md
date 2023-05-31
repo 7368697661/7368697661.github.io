@@ -1,5 +1,5 @@
 ---
-title: A Signpost to Seattle
+title: "A Signpost to Seattle"
 tags:
 - boo
 ---
