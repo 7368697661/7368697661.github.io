@@ -1,4 +1,4 @@
-baseURL = "http://kneecaps.org/"
+baseURL = "https://kneecaps.org/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
