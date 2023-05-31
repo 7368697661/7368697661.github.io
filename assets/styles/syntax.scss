@@ -40,9 +40,9 @@
   font-weight: bold !important;
 }
 
-.lntd:first-of-type > .chroma {
-  padding-right: 0 !important;
-}
+// .lntd:first-of-type > .chroma {
+//   padding-right: 0 !important;
+// }
 
 .chroma code {
   font-family: var(--font-mono) !important;
@@ -53,8 +53,9 @@
 }
 
 .chroma {
-  border-radius: 3px !important;
+  border-radius: 4px !important;
   margin: 0 !important;
+  box-shadow: rgba(0,0,0,0.1)0 10px 15px -3px,rgba(0,0,0,0.1) 0 4px 6px -2px, rgba(255, 115, 115, 0.1) 0 15px 15px -3px;
 }
 
 pre.chroma {

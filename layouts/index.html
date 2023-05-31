@@ -3,10 +3,12 @@
 {{ partial "head.html" . }}
 
 <body>
+
 {{partial "search.html" .}}
 <div class="singlePage">
     <!-- Begin actual content -->
     {{partial "header.html" .}}
+    <div class="test">
     <article>
         {{partial "toc.html" .}}
         {{partial "textprocessing.html" . }}
@@ -14,6 +16,7 @@
           {{partial "recent.html" . }}
         {{end}}
     </article>
+  </div>
     {{partial "footerIndex.html" .}}
 </div>
 </body>
