@@ -1,8 +1,6 @@
 ---
-tags: 
-abstract: 
-c: 2023.04.04 ⋄ 10:21:32
-e: 2023.04.04 ⋄ 04:42:14
+title: Shapes in the Noise
+enableToc: true
 ---
 # Shapes in the Noise
 i started using Codex recently, a few months ago. In all honesty, i haven't fiddled with GPT systems much since GPT2, and that was paltry compared to the tools we have years later. But wow... i underestimated the depth and creativity a system like this could muster. Even for someone who, while not on the bleeding edge, has a grasp of the technology it still blows my mind consistently.
