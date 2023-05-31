@@ -4,7 +4,7 @@ tags:
 - boo
 ---
 
-⬆️ [[notes/Book of October/0-the-book-of-october]] ⬅️ [[notes/Book of October/6-lilies-of-the-field]] | [[notes/Book of October/8-vulnerability]] ➡️
+⬆️ [[Book of October/0-the-book-of-october]] ⬅️ [[Book of October/6-lilies-of-the-field]] | [[Book of October/8-vulnerability]] ➡️
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, HEART, LOGIC, DECADENCE, FERCAE, ANGER, GRANDIOSITY, FAHIN

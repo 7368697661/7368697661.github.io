@@ -4,7 +4,7 @@ tags:
 - boo
 ---
 
-⬆️ [[notes/Book of October/0-the-book-of-october]] ⬅️ [[notes/Book of October/2-a-signpost-to-seattle]] [[notes/Book of October/4-ripples-on-the-pond]] ➡️
+⬆️ [[Book of October/0-the-book-of-october]] ⬅️ [[Book of October/2-a-signpost-to-seattle]] [[Book of October/4-ripples-on-the-pond]] ➡️
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, COMMUNITY, PRYLIS, SAGA, ABSTRACTION, AUREL, HEART

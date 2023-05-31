@@ -4,7 +4,7 @@ tags:
 - boo
 ---
 
-⬆️ [[notes/Book of October/0-the-book-of-october]] ⬅️ [[notes/Book of October/13 -the-aspects]] | [[notes/Book of October/15-fear]] ➡️
+⬆️ [[Book of October/0-the-book-of-october]] ⬅️ [[Book of October/13 -the-aspects]] | [[Book of October/15-fear]] ➡️
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, ANGER, GNODENTA, COMMUNITY, INTROSPECTION, THALIAN, ACTION, BORACLIES, THOS, GRANDIOSITY, BERO, ANIATIO, PARAMIA, ORAMIO

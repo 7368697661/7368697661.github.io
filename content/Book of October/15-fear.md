@@ -4,7 +4,7 @@ tags:
 - boo
 ---
 
-⬆️ [[notes/Book of October/0-the-book-of-october]] ⬅️ [[notes/Book of October/14-the-lords-prayer]] | [[notes/Book of October/16-halt-and-listen]] ➡️
+⬆️ [[Book of October/0-the-book-of-october]] ⬅️ [[Book of October/14-the-lords-prayer]] | [[Book of October/16-halt-and-listen]] ➡️
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, ABSTRACTION, LOGIC, IMPULSIVITY, ORUS, MYALO

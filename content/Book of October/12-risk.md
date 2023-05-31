@@ -4,7 +4,7 @@ tags:
 - boo
 ---
 
-⬆️ [[notes/Book of October/0-the-book-of-october]] ⬅️ [[notes/Book of October/11-reflections]] | [[notes/Book of October/13 -the-aspects]] ➡️
+⬆️ [[Book of October/0-the-book-of-october]] ⬅️ [[Book of October/11-reflections]] | [[Book of October/13 -the-aspects]] ➡️
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, THALIAN, AUREL, LOGIC, COMMUNITY, THOS, INTROSPECTION, SERHOM, HUMOR, ANGER, HEART, SAGA, PARAMIA, ANIATIO, ORUS, ABSTRACTION, ACTION, GNODENTA, GRANDIOSITY

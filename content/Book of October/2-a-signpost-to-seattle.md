@@ -4,7 +4,7 @@ tags:
 - boo
 ---
 
-⬆️ [[notes/Book of October/0-the-book-of-october]] ⬅️ [[notes/Book of October/1-a-clever-hell]] | [[notes/Book of October/3-Rain-on-the-sand]] ➡️
+⬆️ [[Book of October/0-the-book-of-october]] ⬅️ [[Book of October/1-a-clever-hell]] | [[Book of October/3-Rain-on-the-sand]] ➡️
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, COMMUNITY, ABSTRACTION, PRYLIS, PARAMIA, AUREL, FAHIN, ESCO, XOLL, LUCIRE

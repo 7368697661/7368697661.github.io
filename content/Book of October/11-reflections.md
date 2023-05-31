@@ -4,7 +4,7 @@ tags:
 - boo
 ---
 
-⬆️ [[notes/Book of October/0-the-book-of-october]] ⬅️ [[notes/Book of October/10-compassion]] | [[notes/Book of October/12-risk]] ➡️
+⬆️ [[Book of October/0-the-book-of-october]] ⬅️ [[Book of October/10-compassion]] | [[Book of October/12-risk]] ➡️
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, ABSTRACTION, GRANDIOSITY, INTROSPECTION, SAGA, ANIATIO, PRYLIS, ACTION, ARBALO, ERAS, ANGER, HOPE

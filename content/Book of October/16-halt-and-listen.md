@@ -4,7 +4,7 @@ tags:
 - boo
 ---
 
-⬆️ [[notes/Book of October/0-the-book-of-october]] ⬅️ [[notes/Book of October/15-fear]] | [[notes/Book of October/17-shelving-ego]] ➡️
+⬆️ [[Book of October/0-the-book-of-october]] ⬅️ [[Book of October/15-fear]] | [[Book of October/17-shelving-ego]] ➡️
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, FERCAE, INTROSPECTION, PRYLIS, ABSTRACTION, LOGIC

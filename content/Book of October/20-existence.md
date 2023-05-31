@@ -3,7 +3,7 @@ title: Existence
 tags:
 - boo
 ---
-⬆️ [[00 The Book of October]] ⬅️ [[19. November Dawn]]
+⬆️ [[Book of October/0-the-book-of-october|0-the-book-of-october]] ⬅️ [[Book of October/19-november-dawn|19-november-dawn]]
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, LOGIC, ACTION, COMMUNITY, ORUS, GRANDIOSITY, HEART, JANUS, FAHIN, LUPA, ABSTRACTION, ANGER, INTUITION, ERAS, CHIOU, PARAMIA, VOUN, MYALO, PSYARO

@@ -7,13 +7,13 @@ enableToc: false
 
 # Cybernomicon
 
-In these pages are kept [[notes/edits/Shapes in the Noise]]; for all time, for ages, for countless generations.
+In these pages are kept [[notes/Shapes in the Noise|Shapes in the Noise]]; for all time, for ages, for countless generations.
 
-In these pages are kept poor imitations of other people's fine words, [[notes/Book of October/0-the-book-of-october]]; that are closer to what I believe but never can I speak.
+In these pages are kept poor imitations of other people's fine words, [[Book of October/0-the-book-of-october|0-the-book-of-october]]; that are closer to what I believe but never can I speak.
 
-In these pages are kept dreams for you to read; [[notes/Dreams/dreams_index]] papers, essays and the scratching notes I made while writing them.
+In these pages are kept dreams for you to read; [[Dreams/dreams_index|dreams_index]] papers, essays and the scratching notes I made while writing them.
 
-In these pages are kept wires, dreams in parallel hypnogagial existence; [[notes/Abaddon/the-stair]] projections of what could be, what must be.
+In these pages are kept wires, dreams in parallel hypnogagial existence; [[Abaddon/the-stair|the-stair]] projections of what could be, what must be.
 
 In these pages are kept fictitious events and characters; **[████████]**;stories which articulate far more than I ever could.
 

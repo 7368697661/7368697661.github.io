@@ -4,7 +4,7 @@ tags:
 - boo
 ---
 
-⬆️ [[notes/Book of October/0-the-book-of-october]] ⬅️ [[notes/Book of October/17-shelving-ego]] | [[notes/Book of October/19-november-dawn]] ➡️
+⬆️ [[Book of October/0-the-book-of-october]] ⬅️ [[Book of October/17-shelving-ego]] | [[Book of October/19-november-dawn]] ➡️
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, ORUS, INTROSPECTION, PSYARO, HOPE, ABSTRACTION, FAHIN, PRYLIS, THOS, CHAM
